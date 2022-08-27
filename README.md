@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=LuciSantiago&show_icons=true&theme=algolia" alt="LuciSantiago's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciSantiago&layout=compact&theme=algolia" alt="LuciSantiago's most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=LuciSantiago&show_icons=true&theme=algolia" alt="LuciSantiago's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciSantiago&layout=compact&theme=algolia" alt="LuciSantiago's most languages"/>
 </p>
 
 
